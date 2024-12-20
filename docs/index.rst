@@ -15,12 +15,9 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 .. toctree::
-   :caption: Example
    Home <self>
    usage
    api
-
-.. toctree::
-   :caption: Setup and prerequisites
    tutorial_notebooks/tutorial_1.ipynb
