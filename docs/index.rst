@@ -17,7 +17,23 @@ Contents
 --------
 
 .. toctree::
-   Home <self>
-   usage
-   api
-   tutorial-notebooks/tutorial_1
+   :caption: Setup
+   :maxdepth: 2
+
+.. toctree::
+   :caption: Prerequisites
+   :maxdepth: 2
+   notebooks/tutorial1
+
+.. toctree::
+   :caption: Classification
+   :maxdepth: 2
+
+.. toctree::
+   :caption: Regression
+   :maxdepth: 2
+
+.. toctree::
+   :caption: Clustering
+   :maxdepth: 2
+
