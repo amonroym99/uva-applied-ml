@@ -17,7 +17,8 @@ Contents
 --------
 
 .. toctree::
-   
+
    Home <self>
    usage
    api
+   tutorial-notebooks/tutorial_1
