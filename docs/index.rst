@@ -15,7 +15,6 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-
 .. toctree::
    :caption: Example
    :maxdepth: 2
@@ -26,4 +25,4 @@ Contents
 .. toctree::
    :caption: Setup and prerequisites
    :maxdepth: 2
-   tutorial_notebooks/tutorial_1
+   tutorial_notebooks/tutorial_1.ipynb
