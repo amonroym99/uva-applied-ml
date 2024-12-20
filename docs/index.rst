@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
+   
    Home <self>
    usage
    api
-   tutorial_notebooks/tutorial_1.ipynb
