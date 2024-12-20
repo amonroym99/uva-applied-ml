@@ -20,4 +20,4 @@ Contents
    Home <self>
    usage
    api
-   tutorial-notebooks/tutorial_1.ipynb
+   tutorial-notebooks/tutorial_1
