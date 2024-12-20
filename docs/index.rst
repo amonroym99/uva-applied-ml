@@ -17,8 +17,7 @@ Contents
 --------
 
 .. toctree::
-   :caption: Example
-   :maxdepth: 2
    Home <self>
    usage
    api
+   tutorial-notebooks/tutorial_1.ipynb
