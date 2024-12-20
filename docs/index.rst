@@ -15,10 +15,14 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-
 .. toctree::
-
+   :caption: Example
+   :maxdepth: 2
    Home <self>
    usage
    api
-   tutorial-notebooks/tutorial_1
+
+.. toctree::
+   :caption: Setup and prerequisites
+   :maxdepth: 2
+   tutorial-notebooks/tutorial_1.ipynb
