@@ -1,6 +1,4 @@
-.. include:: ../README.rst
-
-Welcome to Lumache's documentation!
+Applied Machine Learning Tutorials
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -19,7 +17,13 @@ Contents
 --------
 
 .. toctree::
-
+   :caption: Example
+   :maxdepth: 2
    Home <self>
    usage
    api
+
+.. toctree::
+   :caption: Setup and prerequisites
+   :maxdepth: 2
+   tutorial_notebooks/tutorial_1
