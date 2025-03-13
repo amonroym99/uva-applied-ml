@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
+project = "Applied Machine Learning Tutorials"
 copyright = "2022, Read the Docs core team"
 author = "Read the Docs core team"
 

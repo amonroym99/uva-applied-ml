@@ -1,13 +1,9 @@
 Applied Machine Learning Tutorials
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Author: Alejandro Monroy
 
 .. note::
 
@@ -16,16 +12,22 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-   :caption: Setup
-   :maxdepth: 2
-
 
 .. toctree::
-   :caption: Prerequisites
+   :caption: Introduction
    :maxdepth: 2
 
-   notebooks/tutorial_1
+   notebooks/0_python
+   notebooks/1_sklearn
+
+
+.. toctree::
+   :caption: Regression
+   :maxdepth: 2
+
+   notebooks/2_reg_knn_linreg
+   notebooks/3_lin_reg_poly
+
 
 .. toctree::
    :caption: Classification
@@ -33,11 +35,5 @@ Contents
 
 
 .. toctree::
-   :caption: Regression
-   :maxdepth: 2
-
-
-.. toctree::
    :caption: Clustering
    :maxdepth: 2
-
