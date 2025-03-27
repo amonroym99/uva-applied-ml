@@ -2,7 +2,7 @@ Applied Machine Learning Tutorials
 ===================================
 Author: Alejandro Monroy
 
-Welcome! This repository includes tutorials to learn the basics of machine learning using Python and scikit-learn, as part of the [Applied Machine Learning](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119441) course of the [BSc Information Science](https://www.uva.nl/programmas/bachelors/informatiekunde/informatiekunde.html)at UvA.
+Welcome! This repository includes tutorials to learn the basics of machine learning using Python and scikit-learn, as part of the Applied Machine Learning course of the BSc Information Science at the University of Amsterdam.
 
 
 .. note::
