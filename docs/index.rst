@@ -1,13 +1,13 @@
 Applied Machine Learning Tutorials
 ===================================
-
-Welcome!
-
 Author: Alejandro Monroy
+
+Welcome! This repository includes tutorials to learn the basics of machine learning using Python and scikit-learn, as part of the [Applied Machine Learning](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119441) course of the [BSc Information Science](https://www.uva.nl/programmas/bachelors/informatiekunde/informatiekunde.html)at UvA.
+
 
 .. note::
 
-   This project is under active development.
+   This repository just contains the first half of the course for now. The second half will be added at a later date.
 
 Contents
 --------
@@ -17,6 +17,7 @@ Contents
    :caption: Introduction
    :maxdepth: 2
 
+   notebooks/setup
    notebooks/0_python
    notebooks/1_sklearn
 
@@ -27,13 +28,3 @@ Contents
 
    notebooks/2_reg_knn_linreg
    notebooks/3_lin_reg_poly
-
-
-.. toctree::
-   :caption: Classification
-   :maxdepth: 2
-
-
-.. toctree::
-   :caption: Clustering
-   :maxdepth: 2
