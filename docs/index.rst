@@ -28,3 +28,9 @@ Contents
 
    notebooks/2_reg_knn_linreg
    notebooks/3_lin_reg_poly
+
+.. toctree::
+   :caption: Classification
+   :maxdepth: 2
+
+   notebooks/4_knn_classif
