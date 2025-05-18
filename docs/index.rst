@@ -35,3 +35,9 @@ Contents
 
    notebooks/4_knn_classif
    notebooks/5_log_reg_gs
+
+.. toctree::
+   :caption: Clustering
+   :maxdepth: 2
+
+   notebooks/6_kmeans_clust
